@@ -72,3 +72,7 @@ body {
 #download_button_inner:hover {
     background-color: #52c465;
 }
+
+a {
+    text-decoration: none;
+}
